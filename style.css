@@ -121,6 +121,22 @@
     margin-top: 10px;
 }
 
+.descrip{
+    text-align: justify;
+    margin-left: 200px;
+    margin-right: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    box-sizing: border-box;
+    box-shadow: 0 0 10px rgba(15, 23, 42, 0.5);
+    border-radius: 20px;
+    height: auto;
+    width: fit-content;
+    padding: 20px;
+}
+
 /* Footer */
 footer {
     background: #0f172a;
